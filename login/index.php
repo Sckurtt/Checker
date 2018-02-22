@@ -4,7 +4,6 @@
         <style rel="stylesheet" type="text/css">
             
             #form{
-                
                 margin: 0 auto;
                 text-align: center;
             }
